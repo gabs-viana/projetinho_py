@@ -9,3 +9,4 @@ meu_nome = exibir_msg()
 print(f"Bla bla bla {meu_nome}")
 
 # Lembrar de depositar o Retorno de uma função em uma variável.
+# Lembrar de chamar a função para que ela funcione. Ex: "exibir_msg"
